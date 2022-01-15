@@ -1,0 +1,21 @@
+img{
+ 
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+
+body{
+    background-color: skyblue;
+    text-align: center;
+  
+}
+h1{
+    color:red;
+}
+h4{
+    color:red;   
+}
+div.container{
+    color: black;
+}
